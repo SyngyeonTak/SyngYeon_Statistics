@@ -54,3 +54,13 @@ Therefor, I will use the "defining formula"
 In my opinion
 
 If we want to see how much the dataset vary, we could consider the distance between each value and mean value. But in this case we will get both negative and positive values which will sum up to zero. If we square the each distance, we will only get the positive number. The bigger the number is, the more distant the graph is.
+
+### Variance Formula
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/05246e9d-98a1-4461-bdc6-5a4a681991d4/Untitled.png)
+
+### Standard Deviation
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e36ccc3-92ad-4aae-a494-e11e2f996f17/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aa1ea1be-c6f4-4894-8add-2ccd77b60be2/Untitled.png)
