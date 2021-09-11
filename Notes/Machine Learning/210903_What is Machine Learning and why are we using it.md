@@ -1,6 +1,6 @@
-# Statistics_day210911
+# Statistics_day210903
 
-https://www.notion.so/day210907-Support-Vector-Machines-1-3-eefef00dbad84104b8a13620aadb0863
+https://www.notion.so/day210903-a2d66ae4bc6a423dba3a298050f46677
 
 In our daily lives, let's take a example that all people can relate. The algorithm behind Facebook' News feed make it personalized. It exploits user's data and feedback.
 
